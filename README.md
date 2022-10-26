@@ -1,1 +1,6 @@
-# gemstun3
+- Merapikan Front End
+- Cart
+- Pengiriman
+- Tombol Beli
+- CSS bagian gambar = Setiap Gambar harus ada ukuran mutlak height/weight
+- Kategori ditambahkan, codingan untuk ambil produk tinggal copas
